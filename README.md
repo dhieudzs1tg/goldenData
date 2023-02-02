@@ -1,2 +1,2 @@
-# royalData
-just a Royal Bot Data
+# goldenData
+just a Golden Bot Data
